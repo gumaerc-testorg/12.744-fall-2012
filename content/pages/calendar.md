@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f907cd2c-4af6-ac83-5916-62c5ec582209
 ---
@@ -190,7 +192,7 @@ Bill Jenkins
 Atmosphere/Ocean Formation
 {{< tdclose >}}
 {{< tdopen >}}
-Noble gases (including 3He) and isotopes (degassing), hydrodynamic escape
+Noble gases (including {{< sup "3" >}}He) and isotopes (degassing), hydrodynamic escape
 {{< tdclose >}}
 {{< tdopen >}}
 Bill Jenkins
@@ -208,7 +210,7 @@ Bill Jenkins
 Cosmogenic Isotopes I
 {{< tdclose >}}
 {{< tdopen >}}
-Exposure dating, 10Be, 26Al, 36Cl theory, models, and practice
+Exposure dating, {{< sup "10" >}}Be, {{< sup "26" >}}Al, {{< sup "36" >}}Cl theory, models, and practice
 {{< tdclose >}}
 {{< tdopen >}}
 Bill Jenkins
@@ -226,7 +228,7 @@ Problem set 1 due
 Cosmogenic Isotopes II
 {{< tdclose >}}
 {{< tdopen >}}
-14C (carbon cycle, paleo)
+{{< sup "14" >}}C (carbon cycle, paleo)
 {{< tdclose >}}
 {{< tdopen >}}
 Bill Jenkins
@@ -340,7 +342,7 @@ Problem set 2 due
 Problem-Solving Session 3
 {{< tdclose >}}
 {{< tdopen >}}
-Dealing with Rayleigh equation; G-IG seawater δ18O (Emiliani vs. Shackleton)
+Dealing with Rayleigh equation; G-IG seawater δ{{< sup "18" >}}O (Emiliani vs. Shackleton)
 {{< tdclose >}}
 {{< tdopen >}}
 Bernhard Peucker-Ehrenbrink
@@ -382,7 +384,7 @@ Bernhard Peucker-Ehrenbrink
 Clumped Isotopes
 {{< tdclose >}}
 {{< tdopen >}}
-Concepts, theory, and application, long term seawater changes in δ18O
+Concepts, theory, and application, long term seawater changes in δ{{< sup "18" >}}O
 {{< tdclose >}}
 {{< tdopen >}}
 Bernhard Peucker-Ehrenbrink
@@ -496,7 +498,7 @@ Bernhard Peucker-Ehrenbrink
 Water Column V
 {{< tdclose >}}
 {{< tdopen >}}
-Air-sea exchange (222Rn, 14C, 3He)
+Air-sea exchange ({{< sup "222" >}}Rn, {{< sup "14" >}}C, {{< sup "3" >}}He)
 {{< tdclose >}}
 {{< tdopen >}}
 Bill Jenkins

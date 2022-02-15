@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Earth Formation and Evolution
 uid: 2f0ea6fe-4c9f-4eb5-2640-da048d86ec48
 ---
@@ -35,7 +37,7 @@ SLIDES
 Solar System and Planetary Formation
 {{< tdclose >}}
 {{< tdopen >}}
-We briefly discuss timescales of the universe, stellar nucleosynthesis, and solar system formation, mostly from the perspective of long-lived radionuclides (Problem Set 1). Before we talk about the formation of Earth and Moon, we cover the concept of volatility (half-condensation temperatures) and the partitioning of elements between different phases (lattice strain model), a pre-requisite for understanding the differentiation of our planet. A brief introduction to meteoritics will lead to the discussion of timescales of differentiation, mainly from the perspective of extinct radionuclides (26Al-26Mg, 182Hf-182W) with the use of the 207Pb/206Pb system as an absolute time anchor. We end with the widely accepted scenario for the formation of the moon, and discuss its timing in the context of the 182Hf-182W extinct radionuclide system.
+We briefly discuss timescales of the universe, stellar nucleosynthesis, and solar system formation, mostly from the perspective of long-lived radionuclides (Problem Set 1). Before we talk about the formation of Earth and Moon, we cover the concept of volatility (half-condensation temperatures) and the partitioning of elements between different phases (lattice strain model), a pre-requisite for understanding the differentiation of our planet. A brief introduction to meteoritics will lead to the discussion of timescales of differentiation, mainly from the perspective of extinct radionuclides ({{< sup "26" >}}Al-{{< sup "26" >}}Mg, {{< sup "182" >}}Hf-{{< sup "182" >}}W) with the use of the {{< sup "207" >}}Pb/{{< sup "206" >}}Pb system as an absolute time anchor. We end with the widely accepted scenario for the formation of the moon, and discuss its timing in the context of the 182Hf-182W extinct radionuclide system.
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -123,7 +125,7 @@ Here we embark on a tutorial on model building: a box model of cosmogenic isotop
 
 [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit12_744f12_prob_set2)
 
-[14C Data (XLS - 3.2MB)]({{< baseurl >}}/resources/14c_production)
+[{{< sup "14" >}}C Data (XLS - 3.2MB)]({{< baseurl >}}/resources/14c_production)
 
 
 {{< tdclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Nuclear Systematics
 uid: 85a12cf4-f64a-455c-2b01-7c075a192b99
 ---
@@ -65,7 +67,7 @@ We aim to understand how the elements and isotopes came to be, within the contex
 Radioactive Decay
 {{< tdclose >}}
 {{< tdopen >}}
-The learning goals for this lecture are the derivation of the isochron equation (simple decay), a basic understanding of how radioactive decay can be used as a dating tool (isochron diagram), and an understanding of some of the pitfalls involved in dating (confusion with mixing lines). We will also cover a special case where two decay systems of a single element leads to two stable isotopes of the same element (238U to 206Pb, 235U to 207Pb), and how these systematics can be used in an isochron diagram (Geochron, growth curves).
+The learning goals for this lecture are the derivation of the isochron equation (simple decay), a basic understanding of how radioactive decay can be used as a dating tool (isochron diagram), and an understanding of some of the pitfalls involved in dating (confusion with mixing lines). We will also cover a special case where two decay systems of a single element leads to two stable isotopes of the same element ({{< sup "238" >}}U to {{< sup "206" >}}Pb, {{< sup "235" >}}U to {{< sup "207" >}}Pb), and how these systematics can be used in an isochron diagram (Geochron, growth curves).
 {{< tdclose >}}
 {{< tdopen >}}
 

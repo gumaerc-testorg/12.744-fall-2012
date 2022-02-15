@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Ocean Applications
 uid: f7d80171-a289-433c-9f9a-1ce2d5e31835
 ---
@@ -152,7 +154,7 @@ This lecture covers some important issues involving radionuclides in sediments, 
 Water Column V: Isotopes and Gases
 {{< tdclose >}}
 {{< tdopen >}}
-In this lecture we will explore air-sea exchange with special attention to the following isotopes: 222Rn, 14C, 3He.
+In this lecture we will explore air-sea exchange with special attention to the following isotopes: {{< sup "222" >}}Rn, {{< sup "14" >}}C, {{< sup "3" >}}He.
 {{< tdclose >}}
 {{< tdopen >}}
 ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 25 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=142324&pt=2&p=146989)
