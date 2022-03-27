@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Ocean Applications
 parent_type: CourseSection
+parent_uid: f7d80171-a289-433c-9f9a-1ce2d5e31835
 resourcetype: Other
 title: 12.744 Problem Set 4 Data
 uid: 82b82f12-cbc0-eb6a-9365-98a6881120bf

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Nuclear Systematics
 parent_type: CourseSection
+parent_uid: 85a12cf4-f64a-455c-2b01-7c075a192b99
 resourcetype: Document
 title: 12.744 Problem Set 1
 uid: f7a77095-93bc-ea1f-ab59-fa966d65218f

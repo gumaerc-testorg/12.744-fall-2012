@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Earth Formation and Evolution
 parent_type: CourseSection
+parent_uid: 2f0ea6fe-4c9f-4eb5-2640-da048d86ec48
 resourcetype: Document
 title: 12.744 Problem Set 2
 uid: 7950c09e-2c1e-0002-2601-8aa26298d861

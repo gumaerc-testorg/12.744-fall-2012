@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 9849d04f-e28c-79da-c42b-53e91c92073c
 resourcetype: Image
 title: MIT12_744F12_Week4-thumb.jpg
 uid: 2495773b-3506-ad5d-0039-2ab0a9479ea8

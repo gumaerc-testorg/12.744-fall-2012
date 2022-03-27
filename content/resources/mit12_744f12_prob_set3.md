@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Stable Isotopes
 parent_type: CourseSection
+parent_uid: 19d700d8-44ae-158d-184d-0e7754b12045
 resourcetype: Document
 title: 12.744 Problem Set 3
 uid: 9d6f143b-0aa2-cc1b-778b-938c89ef63fd
