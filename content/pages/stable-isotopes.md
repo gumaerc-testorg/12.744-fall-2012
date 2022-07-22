@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Stable Isotopes
 uid: 19d700d8-44ae-158d-184d-0e7754b12045
 ---
@@ -78,7 +80,7 @@ Problem Session 3
 {{< tdclose >}}
 {{< tdopen >}}
 Dealing with the Rayleigh equation.  
-G‐IG seawater δ18O (Emiliani vs. Shackleton)
+G‐IG seawater δ{{< sup "18" >}}O (Emiliani vs. Shackleton)
 {{< tdclose >}}
 {{< tdopen >}}
  [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit12_744f12_prob_set3)
