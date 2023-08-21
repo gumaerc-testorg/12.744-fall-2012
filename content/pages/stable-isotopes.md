@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides lecture summaries, lecture notes, and readings
+  for the 13th through 17th lectures of the course. This section of the course introduces
+  stable isotopes and isotope fractionation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Stable Isotopes
@@ -42,9 +45,9 @@ Since you need to understand the limits and character of your data in order to u
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 13 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135444&pt=2&p=146969)
+[Lecture 13 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135444&pt=2&p=146969)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 14 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135884&pt=2&p=146969)
+[Lecture 14 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=135884&pt=2&p=146969)
 
 
 {{< tdclose >}}
@@ -63,9 +66,9 @@ Here we learn about the underlying physical principles about isotope fractionati
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 15 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=136144&pt=2&p=146969)
+[Lecture 15 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=136144&pt=2&p=146969)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 16 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=137304&pt=2&p=146969)
+[Lecture 16 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=137304&pt=2&p=146969)
 
 
 {{< tdclose >}}
@@ -83,7 +86,7 @@ Dealing with the Rayleigh equation.
 G‐IG seawater δ{{< sup "18" >}}O (Emiliani vs. Shackleton)
 {{< tdclose >}}
 {{< tdopen >}}
- [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit12_744f12_prob_set3)
+ {{% resource_link 9d6f143b-0aa2-cc1b-778b-938c89ef63fd "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,10 +96,10 @@ G‐IG seawater δ{{< sup "18" >}}O (Emiliani vs. Shackleton)
 {{< anchor "readings" >}}{{< /anchor >}}Readings
 ------------------------------------------------
 
-[Intro to Isotopic Calculations (PDF)]({{< baseurl >}}/resources/mit12_744f12_rdhayes2004)  
+{{% resource_link c6a5b19d-dd98-ebf4-dd51-a3e474fb3b75 "Intro to Isotopic Calculations (PDF)" %}}  
 A nice introduction written by John Hayes on isotopic calculations. Courtesy of John Hayes. Used with permission.
 
-[Stable Isotopes Review (PDF)]({{< baseurl >}}/resources/mit12_744f12_rd2012_wrnr)  
+{{% resource_link d5a52a15-9b26-92ac-0b04-f2a6976af228 "Stable Isotopes Review (PDF)" %}}  
 A recent review article from Biogeosciences on using stable isotopes to trace plant carbon and water relations across scales.
 
 Werner, Christiane, H. Schnyder, et al. "[Progress and Challenges in Using Stable Isotopes to Trace Plant Carbon and Water Relations Across Scales](http://dx.doi.org/10.5194/bg-9-3083-2012)." _Biogeosciences_ 9 (2012): 3083–111. This work is distributed under the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/us/).
