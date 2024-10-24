@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding extras: normal kinetic
   isotope effect.'
-file: /courses/12-744-marine-isotope-chemistry-fall-2012/e16d5d159d345163429ef69fc24715db_MIT12_744F12_Extras_norm.pdf
+file: /ol-ocw-studio-app/courses/12-744-marine-isotope-chemistry-fall-2012/e16d5d159d345163429ef69fc24715db_MIT12_744F12_Extras_norm.pdf
 file_size: 48458
 file_type: application/pdf
 learning_resource_types: []
