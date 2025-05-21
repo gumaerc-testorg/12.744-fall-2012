@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding extras: effusion.'
-file: /ol-ocw-studio-app/courses/12-744-marine-isotope-chemistry-fall-2012/8b827246e33332e4b6b90c54c09000ba_MIT12_744F12_Extras_effusn.pdf
+file: /courses/12-744-marine-isotope-chemistry-fall-2012/8b827246e33332e4b6b90c54c09000ba_MIT12_744F12_Extras_effusn.pdf
 file_size: 69731
 file_type: application/pdf
 learning_resource_types: []
