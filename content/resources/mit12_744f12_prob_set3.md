@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a problem set related to stable isotopes.
-file: /courses/12-744-marine-isotope-chemistry-fall-2012/9d6f143b0aa2cc1b778b938c89ef63fd_MIT12_744F12_Prob_Set3.pdf
+file: /ol-ocw-studio-app/courses/12-744-marine-isotope-chemistry-fall-2012/9d6f143b0aa2cc1b778b938c89ef63fd_MIT12_744F12_Prob_Set3.pdf
 file_size: 595095
 file_type: application/pdf
 learning_resource_types: []
