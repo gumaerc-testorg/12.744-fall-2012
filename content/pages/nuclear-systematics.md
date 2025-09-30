@@ -12,7 +12,7 @@ uid: 85a12cf4-f64a-455c-2b01-7c075a192b99
 
 This section of the course is intended to give the student a firm understanding of the underlying principles that determine the abundance, stability, and nature of the isotopes. We delve into the mechanisms and timing of the creation of the nuclides and the evidence behind our knowledge of these crucial processes. We investigate the mechanics and systematics of radioactive decay and its application to dating methods. We finish with a problem solving session applying these techniques to determining the age of the elements (for our solar system).
 
-[Readings](#Readings) and [related links](#Links) are listed below the table. Lecture notes are provided by [WHOI](http://www.whoi.edu/) and link away from OCW. Select lecture slides are available.
+[Readings](#Readings) and [related links](#Links) are listed below the table. Lecture notes are provided by {{% resource_link "4a2958c0-4da1-45b7-9012-d01432c93313" "WHOI" %}} and link away from OCW. Select lecture slides are available.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -44,7 +44,7 @@ The Basics
 Our starting point is to examine the cosmic abundance of the elements. From this, we embark on a quest to understand the factors underlying the stability of elements and isotopes, and the relation to their cosmic abundances. This also leads to a foundation for explaining the origin of the elements and isotopes (nucleosynthesis). We will outline the nature and relationship of the four fundamental forces, discussing the relativistic and quantum-mechanical principles underlying our understanding of the universe and the factors controlling nuclear stability. We will also briefly discuss the modes of radioactive decay (more on that in Lecture 3).
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129084&pt=2&p=146929)
+{{% resource_link "a52a847c-d02a-4528-bb98-57746687de6c" "Lecture 1 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +59,7 @@ Nucleosynthesis
 We aim to understand how the elements and isotopes came to be, within the context of the principles presented in Lecture 1, and how these processes are reflected in the cosmic abundance of the elements and isotopes. We start on a wonderful journey that begins with the big bang (primordial nucleosynthesis), follows through galactic evolution (generations of stars and galactic nucleosynthesis), and arrives at the amazing processes of stellar evolution and nucleosynthesis. We describe how our detailed knowledge of this incredible story is woven into the chart of the nuclides (isotopes) and outline the various nucleosynthetic pathways that lead to very stuff that we (and the earth) are made of.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129404&pt=2&p=146929)
+{{% resource_link "4625c7c4-5f18-4a9e-9723-f675aa4b150c" "Lecture 2 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ The learning goals for this lecture are the derivation of the isochron equation 
 
 {{% resource_link ac4d1a19-dbcd-0ff9-fdae-65b79cecc67e "Lecture 3 Slides (PDF)" %}}
 
-[Lecture 3 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129664&pt=2&p=146929)
+{{% resource_link "33e7547b-f260-4ec0-9001-936610cf7539" "Lecture 3 Notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -99,7 +99,7 @@ The learning goals for this lecture are to understand the more complex decay sch
 
 {{% resource_link c9d40927-97c0-6068-611c-0cfb0903a7d9 "Lecture 4 Slides (PDF - 1.3MB)" %}}
 
-[Lecture 4 Notes (PDF - 2.6MB)](http://www.whoi.edu/fileserver.do?id=130124&pt=2&p=146929)
+{{% resource_link "9b1a1c92-0857-438b-9375-034284c44f71" "Lecture 4 Notes (PDF - 2.6MB)" %}}
 
 
 {{< tdclose >}}
@@ -120,7 +120,7 @@ We will review simple decay and decay series systematics as an introduction into
 
 {{% resource_link 20156393-99ea-69fc-688f-6b6b90ecf067 "Lecture 5 Slides (PDF)" %}}
 
-[Lecture 5 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=130664&pt=2&p=146929)
+{{% resource_link "914d0e85-a2a0-4158-891f-bcb319b85e3b" "Lecture 5 Notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -147,7 +147,7 @@ We start solving the first problem of Problem Set 1 in class, using strategies f
 {{< anchor "Readings" >}}{{< /anchor >}}Readings
 ------------------------------------------------
 
-Hester, J. Jeff, Steven J. Desch, et al. "[The Cradle of the Solar System](http://dx.doi.org/10.1126/science.1096808)." _Science_ 304, no. 5674 (2004): 1116–7.  
+Hester, J. Jeff, Steven J. Desch, et al. "{{% resource_link "4ce9a52b-07e1-4543-8d52-6ca7734a64bd" "The Cradle of the Solar System" %}}." _Science_ 304, no. 5674 (2004): 1116–7.  
 A nice descriptive article about what kind of conditions our solar system may have been born in.
 
 Bateman, Harry. {{% resource_link 7997df08-10fe-df7a-37d2-4671a40ec68a "\"The Solution of a System of Differential Equations Occurring in the Theory of Radioactive Transformations.\" (PDF)" %}} _Proceedings of the Cambridge Philosophical Soc_iety 15, no. pt V (1910): 423–7.  
@@ -156,17 +156,17 @@ A copy of Bateman's classic paper with the solutions to the differential equatio
 {{< anchor "Links" >}}{{< /anchor >}}Related Links
 --------------------------------------------------
 
-*   [Basic Nuclear Physics](http://www.lbl.gov/abc/)  
+*   {{% resource_link "83b9aa03-774b-4e30-b851-aa8acf53b93f" "Basic Nuclear Physics" %}}  
     A straightforward (if non-quantitative) introduction to nuclear physics principles.
 
-*   [Table of Nuclides](http://en.wikipedia.org/wiki/Table_of_isotopes)  
+*   {{% resource_link "9aee78c7-ce71-441c-8b84-3094ab471d89" "Table of Nuclides" %}}  
     A good starting point learning about the table of nuclides.
 
-*   [Big Bang Cosmology](http://www.ctc.cam.ac.uk/outreach/origins/big_bang_four.php)  
+*   {{% resource_link "0e797666-0560-4b76-919b-baec4a44c8ca" "Big Bang Cosmology" %}}  
     A good general summary of the big bang model (from Cambridge University).
 
-*   [Stellar Nucleosynthesis](http://en.wikipedia.org/wiki/Stellar_nucleosynthesis)  
+*   {{% resource_link "adfc0ac7-6fe7-43c4-98b2-7a7bb74a502a" "Stellar Nucleosynthesis" %}}  
     A useful entry into all about stellar nucleosynthesis.
 
-*   [All about SN 1987A](http://en.wikipedia.org/wiki/SN1987A)  
+*   {{% resource_link "697d9ef2-2adb-4c0f-acc0-d70e7eb7cb63" "All about SN 1987A" %}}  
     A wiki page on SuperNova 1987A.
