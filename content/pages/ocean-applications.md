@@ -11,7 +11,7 @@ uid: f7d80171-a289-433c-9f9a-1ce2d5e31835
 
 In the final section of the course, we apply the theory and techniques we have discussed to the ocean. We delve into two new and promising developments, namely mass-independent fractionation and clumped isotopes. We finish by exploring many geochemical aspects of the water column and sediments including less-conventional stable isotope systems, ocean circulation and ventilation, and air-sea exchange.
 
-Lecture notes are provided by [WHOI](http://www.whoi.edu/) and link away from OCW. Select lecture slides are available.
+Lecture notes are provided by {{% resource_link "4a2958c0-4da1-45b7-9012-d01432c93313" "WHOI" %}} and link away from OCW. Select lecture slides are available.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -47,7 +47,7 @@ In this lecture, we will be learning about two applications of mass-independent 
 
 {{% resource_link d4b3b0ff-13a7-bf6f-e288-0bfe1099e342 "Lecture 18 Slides (PDF - 2.9MB)" %}}
 
-[Lecture 18 Notes (PDF - 5.7MB)](http://www.whoi.edu/fileserver.do?id=138804&pt=2&p=146989)
+{{% resource_link "1af08fcd-69ca-4447-a2c9-3ac40e47a21a" "Lecture 18 Notes (PDF - 5.7MB)" %}}
 
 
 {{< tdclose >}}
@@ -64,7 +64,7 @@ Clumped Isotopes
 This lecture is an introduction into the concept of multiple substituted (i.e. two or more rare isotopes) isotopologues and the application of this concept to paleo-temperature determinations.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19 Notes (PDF - 3.5MB)](http://www.whoi.edu/fileserver.do?id=139864&pt=2&p=146989)
+{{% resource_link "e39236bc-710f-4ad5-81ef-60f401d16305" "Lecture 19 Notes (PDF - 3.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ Water Column I: Non-Conventional Stable Isotopes
 In this lecture we explore the use of non-conventional stable isotope systems, particularly Mo and Ca, to better constrain sea-surface temperatures in the geologic past, variations in continental erosion/weathering, and the oxygenation of the ocean/atmosphere systems in the Precambrian.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 20 Notes (PDF - 4.4MB)](http://www.whoi.edu/fileserver.do?id=140344&pt=2&p=146989)
+{{% resource_link "99939a31-0e31-4cdd-843a-f5e2a4272370" "Lecture 20 Notes (PDF - 4.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +115,7 @@ Water Column II: Particle Scavenging/Ocean Circulation
 This  lecture applies concepts learned in the last problem-solving session, particularly the export of particle-reactive radionuclides from the water column, to reconstructing changes in ocean circulation/ventilation between the last glacial maximum and the Holocene.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 22 Notes (PDF - 3.0MB)](http://www.whoi.edu/fileserver.do?id=141205&pt=2&p=146989)
+{{% resource_link "ac29d01a-f007-4eb3-b692-456d15edefde" "Lecture 22 Notes (PDF - 3.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +130,7 @@ Water Column III: Marine Isotope Systematics
 This lecture is intended to provide an introduction into the many isotope records of seawater that are archived in marine sediments. We will explore the marine strontium isotope record as an example and probe mass balance equations for systems in steady-state those not at steady-state. We will also explore the response of systems to perturbations that can teach us about the resiliency of these systems.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 23 Notes (PDF - 12.2MB)](http://www.whoi.edu/fileserver.do?id=141444&pt=2&p=146989)
+{{% resource_link "17cfe083-4c5e-49ca-9feb-394a1996a7dc" "Lecture 23 Notes (PDF - 12.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +145,7 @@ Water Column IV: Sediments
 This lecture covers some important issues involving radionuclides in sediments, including the determination of sedimentation/sediment accumulation rates, the role of radionuclides in detecting unusual sources of dissolved (and particulate) matter to the oceans, and the need to properly normalize sediment records to extract paleo-information from such records.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 24 Notes (PDF - 11.3MB)](http://www.whoi.edu/fileserver.do?id=142144&pt=2&p=146989)
+{{% resource_link "12c17425-ffa7-4d41-9788-58e992388354" "Lecture 24 Notes (PDF - 11.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ Water Column V: Isotopes and Gases
 In this lecture we will explore air-sea exchange with special attention to the following isotopes: {{< sup "222" >}}Rn, {{< sup "14" >}}C, {{< sup "3" >}}He.
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 25 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=142324&pt=2&p=146989)
+{{% resource_link "4220fb2a-790c-418c-81ad-2c9fe72e0c46" "Lecture 25 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
